@@ -13,7 +13,3 @@ arduino SDK: 1.0.5
 /atmega/SevenSeg4_v1
 7 segment LED  4Dig ,display driver ATmega328P
 
-# arduino
-arduino SDK: 1.6.5
-/arduin
-esp8266 ,http send
